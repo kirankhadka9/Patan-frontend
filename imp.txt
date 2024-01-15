@@ -1,0 +1,1 @@
+Always include Navigate and setState must be defined inside Either onClick or useEffect.
